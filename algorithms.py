@@ -27,7 +27,8 @@ you really want them to do.
 
 import random
 
-from . import tools
+#from . import tools
+import tools
 
 
 def varAnd(population, toolbox, cxpb, mutpb):
