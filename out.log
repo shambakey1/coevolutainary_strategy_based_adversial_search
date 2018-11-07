@@ -1,0 +1,759 @@
+Running 2 games:
+[ Top 10 ]
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:143: size=1000 B, count=2, average=500 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:206: size=928 B, count=2, average=464 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/random.py:262: size=536 B, count=1, average=536 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:404: size=472 B, count=1, average=472 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:257: size=456 B, count=1, average=456 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:50: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:171: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:75: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:73: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:205: size=432 B, count=1, average=432 B
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	2  
+1  	7     	0.4 	1.56205	-3  	2  
+2  	7     	1.6 	0.8    	0   	2  
+3  	4     	2   	0      	2   	2  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1904 B, count=37, average=51 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	4  
+1  	7     	2.2 	2.44131	-2  	4  
+2  	7     	4   	0      	4   	4  
+3  	4     	4   	0      	4   	4  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1688 B, count=33, average=51 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1760 B, count=31, average=57 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	3  
+1  	7     	-inf	nan	-inf	3  
+2  	7     	-inf	nan	-inf	3  
+3  	4     	3   	0  	3   	3  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1784 B, count=32, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	2  
+1  	7     	-inf	nan	-inf	1  
+2  	7     	-inf	nan	-inf	1  
+3  	4     	-inf	nan	-inf	1  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	3  
+1  	7     	-inf	nan	-inf	3  
+2  	7     	-inf	nan	-inf	5  
+3  	4     	3   	1.54919	1   	5  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1640 B, count=31, average=53 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	4  
+1  	7     	-inf	nan	-inf	5  
+2  	7     	-inf	nan	-inf	5  
+3  	4     	-inf	nan	-inf	5  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1688 B, count=33, average=51 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	3  
+1  	7     	-inf	nan	-inf	0  
+2  	7     	-inf	nan	-inf	0  
+3  	4     	-inf	nan	-inf	0  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=3432 B, count=6, average=572 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-2  
+3  	4     	-inf	nan	-inf	-2  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-2 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-inf	nan	-inf	-2 
+3  	4     	-inf	nan	-inf	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	nan 	nan	-inf	inf 
+2  	7     	nan 	nan	-inf	inf 
+3  	4     	inf 	nan	inf 	inf 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:43: size=2048 B, count=4, average=512 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:107: RuntimeWarning: invalid value encountered in reduce
+  arrmean = umr_sum(arr, axis, dtype, keepdims=True)
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:75: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-1 
+1  	7     	-inf	nan	-inf	3  
+2  	7     	0.6 	1.95959	-1  	3  
+3  	4     	2.6 	1.2    	-1  	3  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-3 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-2.6	0.489898	-3  	-2 
+3  	4     	-2.1	0.3     	-3  	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1616 B, count=30, average=54 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	3   
+3  	4     	-inf	nan	-inf	3   
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-2  
+2  	7     	-inf	nan	-inf	-2  
+3  	4     	-inf	nan	-inf	-2  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	0   
+3  	4     	-inf	nan	-inf	0   
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-2 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-inf	nan	-inf	-2 
+3  	4     	-2  	0  	-2  	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	0  
+1  	7     	-inf	nan	-inf	0  
+2  	7     	-inf	nan	-inf	0  
+3  	4     	-inf	nan	-inf	0  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=3432 B, count=6, average=572 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-2 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-inf	nan	-inf	-2 
+3  	4     	-inf	nan	-inf	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-2 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-inf	nan	-inf	-2 
+3  	4     	-inf	nan	-inf	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=3432 B, count=6, average=572 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-1 
+1  	7     	-inf	nan	-inf	-1 
+2  	7     	-inf	nan	-inf	-1 
+3  	4     	-1  	0  	-1  	-1 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-2 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-inf	nan	-inf	-2 
+3  	4     	-inf	nan	-inf	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.5 KiB, count=131, average=97 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=1776 B, count=3, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+-/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:141: RuntimeWarning: A class named 'FitnessMax' has already been created and it will be overwritten. Consider deleting previous creation of that class or rename it.
+  RuntimeWarning)
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:141: RuntimeWarning: A class named 'Individual' has already been created and it will be overwritten. Consider deleting previous creation of that class or rename it.
+  RuntimeWarning)
+[ Top 10 ]
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:143: size=1000 B, count=2, average=500 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:206: size=928 B, count=2, average=464 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/random.py:262: size=536 B, count=1, average=536 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:404: size=472 B, count=1, average=472 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:257: size=456 B, count=1, average=456 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:50: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:171: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:75: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:73: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:205: size=432 B, count=1, average=432 B
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	0  
+1  	7     	-inf	nan	-inf	0  
+2  	7     	0   	0  	0   	0  
+3  	4     	0   	0  	0   	0  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1640 B, count=31, average=53 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	4  
+1  	7     	2.6 	1.56205	0   	4  
+2  	7     	-inf	nan    	-inf	4  
+3  	4     	4   	0      	4   	4  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1760 B, count=36, average=49 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	2  
+1  	7     	-inf	nan	-inf	4  
+2  	7     	-inf	nan	-inf	4  
+3  	4     	4   	0  	4   	4  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1616 B, count=30, average=54 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	3  
+1  	7     	-inf	nan	-inf	3  
+2  	7     	-inf	nan	-inf	3  
+3  	4     	3   	0  	3   	3  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	3  
+1  	7     	-inf	nan	-inf	3  
+2  	7     	-inf	nan	-inf	4  
+3  	4     	2.7 	1.18743	1   	4  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1640 B, count=31, average=53 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	4  
+1  	7     	2   	2  	0   	4  
+2  	7     	4   	0  	4   	4  
+3  	4     	4   	0  	4   	4  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1664 B, count=32, average=52 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	3  
+1  	7     	-inf	nan	-inf	3  
+2  	7     	-inf	nan	-inf	3  
+3  	4     	1   	2  	-1  	3  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2960 B, count=5, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1640 B, count=31, average=53 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-1  
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	-2 
+1  	7     	-inf	nan	-inf	-2 
+2  	7     	-inf	nan	-inf	-2 
+3  	4     	-inf	nan	-inf	-2 
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=3432 B, count=6, average=572 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max
+0  	10    	-inf	nan	-inf	1  
+1  	7     	-inf	nan	-inf	1  
+2  	7     	-inf	nan	-inf	1  
+3  	4     	1   	0  	1   	1  
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2840 B, count=5, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1592 B, count=29, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+gen	nevals	avg 	std	min 	max 
+0  	10    	-inf	nan	-inf	-inf
+1  	7     	-inf	nan	-inf	-inf
+2  	7     	-inf	nan	-inf	-inf
+3  	4     	-inf	nan	-inf	-inf
+[ Top 10 ]
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=12.3 KiB, count=129, average=98 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=2816 B, count=16, average=176 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/tools.py:23: size=2560 B, count=7, average=366 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:181: size=2536 B, count=51, average=50 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:291: size=2368 B, count=4, average=592 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:208: size=2296 B, count=4, average=574 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/copy.py:223: size=2248 B, count=4, average=562 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=1728 B, count=16, average=108 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:185: size=1568 B, count=28, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/site-packages/numpy/core/_methods.py:117: RuntimeWarning: invalid value encountered in subtract
+  x = asanyarray(arr - arrmean)
+-
+Your agent won 0.0% of matches against Minimax Agent
+
+#################################################################
+#############      UDACITY SUBMIT MEMORY ERROR      #############
+#################################################################
+Failed Test: 1. get_action() calls self.queue.put() at least once before timeout
+------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/grader/adversarial_search/__utils.py", line 202, in test
+    test_fn(*args, **kwargs)
+  File "/home/grader/adversarial_search/__utils.py", line 79, in test
+    if err: raise MemoryError(_MEM_ERR.format(limit))
+MemoryError: The test was stopped after your function consumed more than 471859200 bytes of memory during execution. This indicates that your solution is using significantly more memory than necessary. Please look for ways to make your solution more memory efficient, then resubmit.
+
+
+Failed Test: 2. CustomPlayer successfully completes a game against itself
+------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/grader/adversarial_search/__utils.py", line 202, in test
+    test_fn(*args, **kwargs)
+  File "/home/grader/adversarial_search/__utils.py", line 79, in test
+    if err: raise MemoryError(_MEM_ERR.format(limit))
+MemoryError: The test was stopped after your function consumed more than 471859200 bytes of memory during execution. This indicates that your solution is using significantly more memory than necessary. Please look for ways to make your solution more memory efficient, then resubmit.
+
+
