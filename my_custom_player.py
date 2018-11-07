@@ -3,8 +3,9 @@ from sample_players import DataPlayer
 
 import random, numpy
 
-from workspace import tools
-from workspace import base, creator, algorithms
+#import base, creator, algorithms, tools, support, selection, mutation, crossover
+from workspace import base, creator, algorithms, tools, support, selection, mutation, crossover
+#import base, creator, algorithms, tools
 from math import floor, pow
 from isolation.isolation import Action
 
@@ -13,8 +14,8 @@ atr_min=0   # Minimum bound for attribute value
 atr_max=8   # Maximum bound for attribute value
 ind_size=3  # Individual size (i.e., depth) corresponding to current and opponent moves. Thus, the first gene in individual is the next step for current player, the next gene is the second gene for the opponent, the third gene is the second next step for current player, and so on  
 mut_pb=0.05 # Mutation probability
-gen_size=3  # Number of generations (i.e., iterations)
-pop_size=floor(0.5*pow(atr_max,ind_size)) # Population size per each generation
+gen_size=1  # Number of generations (i.e., iterations)
+pop_size=30#floor(0.5*pow(atr_max,ind_size)) # Population size per each generation
 sel_size=10 # Number of individuals to be selected
 CXPB, MUTPB = 0.5, 0.2  # Crossover and mutation probabilities
 attrAction={0:Action.NNE,1:Action.ENE,2:Action.ESE,3:Action.SSE,4:Action.SSW,5:Action.WSW, \
@@ -65,11 +66,48 @@ class CustomPlayer(DataPlayer):
       any pickleable object to the self.context attribute.
     **********************************************************************
     """
-
-    def get_action1(self, state):
-        self.queue.put(random.choice(state.actions()))
-        print(self.queue)
+    
+    def __init__(self,player_id):
+        super().__init__(player_id)
+        creator.create("FitnessMax", base.Fitness, weights=(1.0,))
+        creator.create("Individual", list, fitness=creator.FitnessMax)
         
+        self.toolbox = base.Toolbox()
+        # Attribute generator 
+        self.toolbox.register("attr_action", random.randrange, atr_max)
+        # Structure initializers
+        self.toolbox.register("individual", tools.initRepeat, creator.Individual,self.toolbox.attr_action, ind_size)
+        # define the population to be a list of individuals
+        self.toolbox.register("population", tools.initRepeat, list, self.toolbox.individual)
+        # Define statistics and hall of fame objects
+        #hof = tools.HallOfFame(1)
+        self.hof=support.HallOfFame(1)
+        #stats = tools.Statistics(lambda ind: ind.fitness.values)
+        self.stats = support.Statistics(lambda ind: ind.fitness.values)
+        self.stats.register("avg", numpy.mean)
+        self.stats.register("std", numpy.std)
+        self.stats.register("min", numpy.min)
+        self.stats.register("max", numpy.max)
+        
+        #----------
+        # Operator registration
+        #----------
+        # register the goal / fitness function
+        self.toolbox.register("evaluate", evaluate)
+        
+        # register the crossover operator
+        #toolbox.register("mate", tools.cxTwoPoint)
+        self.toolbox.register("mate", crossover.cxTwoPoint)
+        
+        # register a mutation operator with a specified probability
+        #toolbox.register("mutate", tools.mutUniformInt, low=atr_min, up=atr_max-1, indpb=mut_pb)
+        self.toolbox.register("mutate", mutation.mutUniformInt, low=atr_min, up=atr_max-1, indpb=mut_pb)
+        
+        # Select the specified number of best individuals
+        #toolbox.register("select", tools.selTournament, tournsize=3)
+        self.toolbox.register("select", selection.selTournament, tournsize=3)
+
+           
     def get_action(self, state):
         """ Employ an adversarial search technique to choose an action
         available in the current state calls self.queue.put(ACTION) at least
@@ -99,63 +137,40 @@ class CustomPlayer(DataPlayer):
         # randomly select a move as player 1 or 2 on an empty board, otherwise
         # return the sub-optimal move, found by optimization algorithms like GA, at a fixed search 
         # depth of individual size
+        #start=time.time()
         if state.ply_count < 2:
             self.queue.put(random.choice(state.actions()))
         else:
-            creator.create("FitnessMax", base.Fitness, weights=(1.0,))
-            creator.create("Individual", list, fitness=creator.FitnessMax)
             
-            toolbox = base.Toolbox()
-            # Attribute generator 
-            toolbox.register("attr_action", random.randrange, atr_max)
-            # Structure initializers
-            toolbox.register("individual", tools.initRepeat, creator.Individual,toolbox.attr_action, ind_size)
-            # define the population to be a list of individuals
-            toolbox.register("population", tools.initRepeat, list, toolbox.individual)
-            # Define statistics and hall of fame objects
-            hof = tools.HallOfFame(1)
-            stats = tools.Statistics(lambda ind: ind.fitness.values)
-            stats.register("avg", numpy.mean)
-            stats.register("std", numpy.std)
-            stats.register("min", numpy.min)
-            stats.register("max", numpy.max)
-            
-            #----------
-            # Operator registration
-            #----------
-            # register the goal / fitness function
-            toolbox.register("evaluate", evaluate)
-            
-            # register the crossover operator
-            toolbox.register("mate", tools.cxTwoPoint)
-            
-            # register a mutation operator with a specified probability
-            toolbox.register("mutate", tools.mutUniformInt, low=atr_min, up=atr_max-1, indpb=mut_pb)
-            
-            # Select the specified number of best individuals
-            toolbox.register("select", tools.selTournament, tournsize=3)
             # Select the final best individual
-            toolbox.register("select_fin",tools.selBest, k=1)
+            #toolbox.register("select_fin",tools.selBest, k=1)
             # create an initial population of individuals (where each individual is a list of integers. Each integer corresponds to an action)
             random.seed(64)
             
-            pop = toolbox.population(n=pop_size)  # Initial random actions of specified depth(=individual size)
+            pop = self.toolbox.population(n=pop_size)  # Initial random actions of specified depth(=individual size)
             #for i in pop: print(i)
 
-            pop,log=algorithms.eaSimple_mod(pop, toolbox, CXPB, MUTPB, gen_size,\
-                                        state, stats=stats,player_id=self.player_id, \
-                                        attrAction=attrAction,halloffame=hof, verbose=True)
+            pop=algorithms.eaSimple_mod(pop, self.toolbox, CXPB, MUTPB, gen_size,\
+                                        state, stats=self.stats,player_id=self.player_id, \
+                                        attrAction=attrAction,halloffame=self.hof, verbose=True)
             '''
             with open("log.out","w") as f:
                 for i in pop:
                     f.write('Individual: '+str(i)+', fitness: '+str(i.fitness.values[0])+'\n')
                 f.write("hof: "+str(hof[0])+", fitness: "+str(hof[0].fitness.values[0])+'\n')
             '''
-            if len(hof)!=0 and hof[0].fitness.values[0]!=float("-inf"):
-                self.queue.put(attrAction.get(hof[0][0])) # Add the sub-optimal individual (i.e., expected best next move) to the queu
+            if len(self.hof)!=0 and self.hof[0].fitness.values[0]!=float("-inf"):
+                self.queue.put(attrAction.get(self.hof[0][0])) # Add the sub-optimal individual (i.e., expected best next move) to the queu
             else:
                 if state.actions:
                     self.queue.put(random.choice(state.actions()))
                 else:
                     print("No more solutions left")
+        '''
+        end=time.time()
+        if (end-start)*1000>150:
+            print("EXCEEDED TIME LIMIT: "+str((end-start)*1000))
+            sys.exit()
+        '''
+        
             

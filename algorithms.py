@@ -28,7 +28,8 @@ you really want them to do.
 import random
 
 #from . import tools
-import tools
+#import tools, support
+from workspace import tools, support
 
 
 def varAnd(population, toolbox, cxpb, mutpb):
@@ -249,7 +250,8 @@ def eaSimple_mod(population, toolbox, cxpb, mutpb, ngen, state, player_id, attrA
     .. [Back2000] Back, Fogel and Michalewicz, "Evolutionary Computation 1 :
        Basic Algorithms and Operators", 2000.
     """
-    logbook = tools.Logbook()
+    #logbook = tools.Logbook()
+    logbook = support.Logbook()
     logbook.header = ['gen', 'nevals'] + (stats.fields if stats else [])
 
     # Evaluate the individuals with an invalid fitness
