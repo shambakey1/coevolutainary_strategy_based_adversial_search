@@ -1,0 +1,459 @@
+<frozen importlib._bootstrap_external>:508: size=107 KiB, count=1260, average=87 B
+<frozen importlib._bootstrap>:222: size=64.5 KiB, count=401, average=165 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:137: size=14.8 KiB, count=145, average=105 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:50: size=12.0 KiB, count=1, average=12.0 KiB
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:123: size=10100 B, count=58, average=174 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:169: size=6744 B, count=30, average=225 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:235: size=6736 B, count=24, average=281 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:81: size=5056 B, count=79, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:54: size=4736 B, count=74, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:181: size=3776 B, count=40, average=94 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:882: size=3360 B, count=4, average=840 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:713: size=3104 B, count=1, average=3104 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:114: size=3064 B, count=15, average=204 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:18: size=3048 B, count=10, average=305 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:114: size=2880 B, count=7, average=411 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:32: size=2826 B, count=16, average=177 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:309: size=2688 B, count=42, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:862: size=2688 B, count=4, average=672 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:65: size=2608 B, count=1, average=2608 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/abc.py:133: size=2453 B, count=10, average=245 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:216: size=2432 B, count=24, average=101 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:164: size=2432 B, count=4, average=608 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:312: size=2368 B, count=2, average=1184 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:348: size=2304 B, count=7, average=329 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:422: size=2262 B, count=8, average=283 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:160: size=2240 B, count=35, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:13: size=2176 B, count=8, average=272 B
+<frozen importlib._bootstrap_external>:60: size=2117 B, count=15, average=141 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:362: size=2112 B, count=4, average=528 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:132: size=2040 B, count=4, average=510 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:81: size=2016 B, count=14, average=144 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:914: size=1984 B, count=4, average=496 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:186: size=1984 B, count=2, average=992 B
+<unknown>:0: size=1952 B, count=4, average=488 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:564: size=1864 B, count=9, average=207 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:49: size=1848 B, count=9, average=205 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:97: size=1848 B, count=9, average=205 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:767: size=1800 B, count=9, average=200 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:79: size=1792 B, count=8, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:745: size=1784 B, count=8, average=223 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:203: size=1720 B, count=10, average=172 B
+<frozen importlib._bootstrap>:192: size=1568 B, count=1, average=1568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:135: size=1568 B, count=1, average=1568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:27: size=1568 B, count=1, average=1568 B
+run_match.py:43: size=1560 B, count=3, average=520 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:123: size=1480 B, count=4, average=370 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:120: size=1464 B, count=6, average=244 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:200: size=1368 B, count=5, average=274 B
+<frozen importlib._bootstrap>:374: size=1344 B, count=13, average=103 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:34: size=1264 B, count=4, average=316 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:37: size=1248 B, count=9, average=139 B
+<frozen importlib._bootstrap>:968: size=1136 B, count=2, average=568 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:162: size=1120 B, count=35, average=32 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:63: size=1112 B, count=3, average=371 B
+<frozen importlib._bootstrap>:673: size=1080 B, count=4, average=270 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:345: size=1056 B, count=2, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:181: size=1056 B, count=2, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:172: size=1056 B, count=2, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:108: size=1056 B, count=2, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:38: size=1056 B, count=2, average=528 B
+<frozen importlib._bootstrap>:957: size=1024 B, count=2, average=512 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:237: size=1016 B, count=2, average=508 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:497: size=1000 B, count=22, average=45 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:844: size=992 B, count=8, average=124 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:160: size=912 B, count=2, average=456 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:143: size=896 B, count=4, average=224 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:124: size=880 B, count=2, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:780: size=864 B, count=6, average=144 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:903: size=864 B, count=2, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/util.py:161: size=832 B, count=4, average=208 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/sample_players.py:16: size=832 B, count=2, average=416 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:38: size=816 B, count=9, average=91 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:5: size=800 B, count=1, average=800 B
+<frozen importlib._bootstrap_external>:575: size=768 B, count=13, average=59 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:91: size=768 B, count=2, average=384 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:47: size=768 B, count=1, average=768 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:39: size=712 B, count=5, average=142 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:79: size=712 B, count=5, average=142 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:781: size=704 B, count=5, average=141 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/weakref.py:355: size=704 B, count=4, average=176 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:116: size=704 B, count=4, average=176 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:48: size=672 B, count=3, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:49: size=656 B, count=3, average=219 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:704: size=648 B, count=3, average=216 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/tokenize.py:433: size=624 B, count=1, average=624 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:896: size=608 B, count=12, average=51 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:549: size=608 B, count=1, average=608 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:332: size=600 B, count=1, average=600 B
+run_match.py:115: size=592 B, count=1, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:18: size=592 B, count=1, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:48: size=592 B, count=1, average=592 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:25: size=585 B, count=2, average=292 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:415: size=584 B, count=2, average=292 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/tokenize.py:456: size=576 B, count=1, average=576 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:51: size=576 B, count=1, average=576 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:911: size=576 B, count=1, average=576 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:78: size=576 B, count=1, average=576 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:15: size=568 B, count=2, average=284 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/warnings.py:18: size=552 B, count=1, average=552 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:785: size=552 B, count=1, average=552 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:160: size=544 B, count=4, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:48: size=544 B, count=1, average=544 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:20: size=544 B, count=1, average=544 B
+run_match.py:41: size=536 B, count=2, average=268 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:207: size=536 B, count=2, average=268 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:333: size=536 B, count=1, average=536 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:136: size=536 B, count=1, average=536 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:224: size=528 B, count=1, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:145: size=528 B, count=1, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:463: size=528 B, count=1, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:241: size=528 B, count=1, average=528 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:234: size=520 B, count=2, average=260 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:174: size=520 B, count=1, average=520 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:16: size=520 B, count=1, average=520 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:206: size=512 B, count=2, average=256 B
+run_match.py:91: size=512 B, count=1, average=512 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:386: size=512 B, count=1, average=512 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:329: size=504 B, count=2, average=252 B
+run_match.py:101: size=504 B, count=1, average=504 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/tokenize.py:425: size=504 B, count=1, average=504 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:849: size=504 B, count=1, average=504 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:176: size=504 B, count=1, average=504 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:153: size=504 B, count=1, average=504 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:788: size=496 B, count=2, average=248 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:82: size=496 B, count=2, average=248 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:435: size=496 B, count=1, average=496 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:905: size=496 B, count=1, average=496 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:407: size=496 B, count=1, average=496 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/weakref.py:356: size=488 B, count=5, average=98 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:87: size=488 B, count=2, average=244 B
+run_match.py:85: size=488 B, count=1, average=488 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:351: size=488 B, count=1, average=488 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/isolation.py:77: size=488 B, count=1, average=488 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:45: size=488 B, count=1, average=488 B
+<frozen importlib._bootstrap>:36: size=480 B, count=6, average=80 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:94: size=480 B, count=1, average=480 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/isolation.py:60: size=480 B, count=1, average=480 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:245: size=472 B, count=1, average=472 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:47: size=472 B, count=1, average=472 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/isolation.py:178: size=472 B, count=1, average=472 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/isolation.py:169: size=472 B, count=1, average=472 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/_weakrefset.py:84: size=464 B, count=6, average=77 B
+run_match.py:107: size=464 B, count=1, average=464 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/warnings.py:28: size=464 B, count=1, average=464 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:1113: size=464 B, count=1, average=464 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:913: size=464 B, count=1, average=464 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:250: size=464 B, count=1, average=464 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:157: size=464 B, count=1, average=464 B
+<frozen importlib._bootstrap_external>:697: size=456 B, count=1, average=456 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/util.py:185: size=456 B, count=1, average=456 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:124: size=456 B, count=1, average=456 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:240: size=456 B, count=1, average=456 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/isolation.py:168: size=456 B, count=1, average=456 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/isolation.py:123: size=456 B, count=1, average=456 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:166: size=456 B, count=1, average=456 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:149: size=456 B, count=1, average=456 B
+<frozen importlib._bootstrap_external>:1243: size=448 B, count=8, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/weakref.py:366: size=448 B, count=2, average=224 B
+run_match.py:123: size=448 B, count=1, average=448 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:83: size=448 B, count=1, average=448 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:155: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:91: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:178: size=448 B, count=1, average=448 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:165: size=448 B, count=1, average=448 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:212: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:143: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:29: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:104: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:239: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/context.py:267: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/context.py:212: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:132: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:502: size=440 B, count=1, average=440 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:93: size=440 B, count=1, average=440 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:181: size=440 B, count=1, average=440 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:84: size=440 B, count=1, average=440 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:81: size=440 B, count=1, average=440 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:219: size=432 B, count=6, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:218: size=432 B, count=6, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:302: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:347: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/selectors.py:202: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:163: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:105: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:156: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:119: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:52: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:918: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:249: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:248: size=432 B, count=1, average=432 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:180: size=432 B, count=1, average=432 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:177: size=432 B, count=1, average=432 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:126: size=432 B, count=1, average=432 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:125: size=432 B, count=1, average=432 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:1138: size=424 B, count=1, average=424 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:289: size=424 B, count=1, average=424 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:174: size=424 B, count=1, average=424 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:405: size=424 B, count=1, average=424 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:217: size=424 B, count=1, average=424 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:45: size=416 B, count=1, average=416 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/process.py:78: size=416 B, count=1, average=416 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:509: size=416 B, count=1, average=416 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:64: size=416 B, count=1, average=416 B
+<frozen importlib._bootstrap>:423: size=406 B, count=6, average=68 B
+<frozen importlib._bootstrap_external>:821: size=384 B, count=9, average=43 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:28: size=384 B, count=4, average=96 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:140: size=384 B, count=2, average=192 B
+<frozen importlib._bootstrap_external>:851: size=360 B, count=5, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:209: size=360 B, count=2, average=180 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:36: size=360 B, count=2, average=180 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:175: size=344 B, count=2, average=172 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/creator.py:141: size=341 B, count=3, average=114 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:419: size=328 B, count=4, average=82 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:904: size=288 B, count=4, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:707: size=288 B, count=2, average=144 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:158: size=288 B, count=2, average=144 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:628: size=272 B, count=3, average=91 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:425: size=272 B, count=3, average=91 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:29: size=272 B, count=3, average=91 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:533: size=256 B, count=4, average=64 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:78: size=256 B, count=4, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:48: size=248 B, count=3, average=83 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:42: size=248 B, count=3, average=83 B
+<frozen importlib._bootstrap>:896: size=240 B, count=3, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:726: size=228 B, count=4, average=57 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:791: size=224 B, count=4, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:224: size=224 B, count=4, average=56 B
+<string>:33: size=224 B, count=1, average=224 B
+<frozen importlib._bootstrap_external>:1304: size=224 B, count=1, average=224 B
+<frozen importlib._bootstrap_external>:1222: size=224 B, count=1, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:531: size=224 B, count=1, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/util.py:165: size=224 B, count=1, average=224 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:286: size=216 B, count=6, average=36 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:35: size=216 B, count=6, average=36 B
+<frozen importlib._bootstrap>:130: size=216 B, count=3, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:841: size=216 B, count=3, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:635: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:129: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:50: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:469: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:468: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:163: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:158: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:153: size=216 B, count=2, average=108 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:20: size=208 B, count=2, average=104 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:701: size=192 B, count=4, average=48 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/my_custom_player.py:80: size=192 B, count=4, average=48 B
+<frozen importlib._bootstrap_external>:850: size=192 B, count=3, average=64 B
+<frozen importlib._bootstrap_external>:509: size=192 B, count=3, average=64 B
+<frozen importlib._bootstrap>:75: size=192 B, count=3, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:615: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:444: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:409: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:399: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:37: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:57: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:98: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:94: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:897: size=192 B, count=2, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:568: size=192 B, count=2, average=96 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:85: size=184 B, count=3, average=61 B
+<frozen importlib._bootstrap_external>:1296: size=182 B, count=3, average=61 B
+<frozen importlib._bootstrap>:182: size=168 B, count=3, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:47: size=168 B, count=3, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:43: size=168 B, count=3, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/context.py:60: size=163 B, count=2, average=82 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:10: size=160 B, count=2, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:12: size=160 B, count=2, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:20: size=160 B, count=2, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:12: size=160 B, count=2, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:408: size=155 B, count=3, average=52 B
+run_match.py:120: size=149 B, count=2, average=74 B
+<frozen importlib._bootstrap_external>:1337: size=144 B, count=2, average=72 B
+<frozen importlib._bootstrap>:121: size=144 B, count=2, average=72 B
+<frozen importlib._bootstrap>:104: size=144 B, count=2, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:241: size=144 B, count=2, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/util.py:155: size=144 B, count=2, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/logging/__init__.py:970: size=144 B, count=2, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:716: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:679: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:650: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:639: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:622: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:608: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:601: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:585: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:562: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:550: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:465: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:439: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:437: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:403: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:393: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:370: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:357: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:321: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:252: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:188: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:177: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:174: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:145: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:141: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:138: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:87: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:237: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:234: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:217: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:215: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:209: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:204: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:198: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:183: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:178: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:173: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:148: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:140: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:57: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:64: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:54: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:44: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:25: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:22: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:16: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:72: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:69: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:66: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:51: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:44: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:38: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:34: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:31: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:26: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:23: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:115: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:112: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:109: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:106: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:103: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:101: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:82: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:80: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:72: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:65: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:43: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:950: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:947: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:774: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:768: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:763: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:760: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:756: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:753: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:746: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:729: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:716: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:607: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:597: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:592: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:501: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:478: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:474: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:471: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:459: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:445: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:429: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:413: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:406: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:390: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:374: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:365: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:360: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:262: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:259: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:253: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:246: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:221: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:208: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:202: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:181: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:173: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:168: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:146: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:142: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:138: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:134: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:130: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:117: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:95: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:83: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:69: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:62: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:59: size=136 B, count=1, average=136 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:889: size=128 B, count=4, average=32 B
+<frozen importlib._bootstrap_external>:925: size=128 B, count=3, average=43 B
+<frozen importlib._bootstrap_external>:1140: size=128 B, count=2, average=64 B
+<frozen importlib._bootstrap_external>:945: size=128 B, count=2, average=64 B
+<frozen importlib._bootstrap_external>:768: size=128 B, count=2, average=64 B
+<frozen importlib._bootstrap>:967: size=128 B, count=2, average=64 B
+<frozen importlib._bootstrap>:311: size=128 B, count=2, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:121: size=128 B, count=2, average=64 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/base.py:77: size=128 B, count=2, average=64 B
+<frozen importlib._bootstrap_external>:1217: size=128 B, count=1, average=128 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:13: size=128 B, count=1, average=128 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/sample_players.py:34: size=120 B, count=2, average=60 B
+<frozen importlib._bootstrap_external>:1090: size=112 B, count=2, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:134: size=96 B, count=1, average=96 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:291: size=88 B, count=1, average=88 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/weakref.py:407: size=80 B, count=1, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:105: size=80 B, count=1, average=80 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/context.py:266: size=75 B, count=1, average=75 B
+<frozen importlib._bootstrap>:1013: size=74 B, count=1, average=74 B
+<frozen importlib._bootstrap_external>:82: size=72 B, count=3, average=24 B
+<string>:14: size=72 B, count=1, average=72 B
+<frozen importlib._bootstrap>:112: size=72 B, count=1, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:238: size=72 B, count=1, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:551: size=72 B, count=1, average=72 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:781: size=70 B, count=1, average=70 B
+<frozen importlib._bootstrap_external>:1216: size=64 B, count=1, average=64 B
+<frozen importlib._bootstrap_external>:59: size=64 B, count=1, average=64 B
+<frozen importlib._bootstrap>:1005: size=64 B, count=1, average=64 B
+<frozen importlib._bootstrap>:160: size=64 B, count=1, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:453: size=64 B, count=1, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/reduction.py:34: size=64 B, count=1, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:45: size=64 B, count=1, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/logging/__init__.py:255: size=64 B, count=1, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:333: size=64 B, count=1, average=64 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:331: size=64 B, count=1, average=64 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:508: size=64 B, count=1, average=64 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/support.py:507: size=64 B, count=1, average=64 B
+<frozen importlib._bootstrap_external>:373: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/threading.py:782: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/queue.py:158: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:789: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:782: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:196: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:188: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:178: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:157: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/__init__.py:39: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/enum.py:270: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/abc.py:147: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/abc.py:146: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/abc.py:145: size=56 B, count=1, average=56 B
+/f/personal/udacity/ai_nanodegree/codes/artificial-intelligence/Projects/3_Adversarial Search/adversial_search/isolation/__init__.py:122: size=56 B, count=1, average=56 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:251: size=55 B, count=1, average=55 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/logging/__init__.py:295: size=48 B, count=2, average=24 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/logging/__init__.py:294: size=48 B, count=2, average=24 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:52: size=40 B, count=1, average=40 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/pool.py:236: size=32 B, count=1, average=32 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:10: size=32 B, count=1, average=32 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/util.py:163: size=28 B, count=1, average=28 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/linecache.py:95: size=28 B, count=1, average=28 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:127: size=24 B, count=1, average=24 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:10: size=24 B, count=1, average=24 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/connection.py:908: size=24 B, count=1, average=24 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/socket.py:676: size=16 B, count=1, average=16 B
+<frozen importlib._bootstrap_external>:1273: size=8 B, count=1, average=8 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/popen_fork.py:7: size=8 B, count=1, average=8 B
+/home/shambakey1/miniconda3/envs/aind/lib/python3.5/multiprocessing/dummy/connection.py:15: size=8 B, count=1, average=8 B
