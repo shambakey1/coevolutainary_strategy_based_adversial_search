@@ -8,6 +8,4 @@ Monte Carlo Tree Search (MCTS) in that it runs many simulations of the game to d
 the co-evolutionary strategy is similar to Genetic Algorithm and Evolutionary Strategy optimization techniques in that it uses 
 crossover, mutation and selection.
 
-PS: The implmenetation uses DEAP python module (https://github.com/DEAP/deap) with some modifications to suit the knights 
-isolation game of the project. Unfortunatelly, the implementation consumes too much memory than what is required by the project 
-(maybe due to the numpy library)
+PS: The implmenetation uses files from the DEAP python module (https://github.com/DEAP/deap) with some modifications. I modified the "eaSimple" algorithm in the DEAP library to "eaSimple_mod" to suit the project/s knights isolation problem. Unfortunatelly, the implementation consumes too much memory than what is required by the project (maybe due to the numpy library)
